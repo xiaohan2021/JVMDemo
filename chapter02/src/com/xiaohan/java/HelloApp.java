@@ -1,8 +1,9 @@
 package com.xiaohan.java;
 
 /**
- * @author shkstart
- * @create 2020 上午 11:43
+ * @Description:
+ * @Author: 小韩同学
+ * @Date: 2020/11/17
  */
 public class HelloApp {
     private static int a = 1;//prepare：a = 0 ---> initial : a = 1

@@ -1,8 +1,9 @@
 package com.xiaohan.java1;
 
 /**
- * @author shkstart
- * @create 2020 上午 11:39
+ * @Description:
+ * @Author: 小韩同学
+ * @Date: 2020/11/17
  */
 public class StringTest {
 

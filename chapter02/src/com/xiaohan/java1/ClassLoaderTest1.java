@@ -7,8 +7,9 @@ import java.net.URL;
 import java.security.Provider;
 
 /**
- * @author shkstart
- * @create 2020 上午 12:02
+ * @Description:
+ * @Author: 小韩同学
+ * @Date: 2020/11/17
  */
 public class ClassLoaderTest1 {
     public static void main(String[] args) {
