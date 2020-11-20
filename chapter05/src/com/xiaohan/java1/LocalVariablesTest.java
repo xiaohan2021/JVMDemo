@@ -33,7 +33,7 @@ public class LocalVariablesTest {
 
     public void test1() {
         Date date = new Date();
-        String name1 = "atguigu.com";
+        String name1 = "xiaohan.jiayou.com";
         test2(date, name1);
         System.out.println(date + name1);
     }
