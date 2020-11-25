@@ -15,7 +15,7 @@ public class GCTest {
         int i = 0;
         try {
             List<String> list = new ArrayList<>();
-            String a = "atguigu.com";
+            String a = "xiaohan.com";
             while (true) {
                 list.add(a);
                 a = a + a;
